@@ -44,5 +44,7 @@ def gabung_pdf():
     
     print(f"PDF berhasil digabung! Hasil tersimpan di: {output_path}")
 
+
 # Jalankan
 gabung_pdf()
+input("\nTekan Enter untuk keluar...")
